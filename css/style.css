@@ -1,0 +1,33 @@
+body {
+    background-color: #23272A;
+    padding-top: 5%;
+    font-size: 85%;
+}
+
+.p-div-content {
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    width: 1em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #23272A;
+}
+
+/* Bootstrap */
+.card {
+    background-color: #2C2F33;
+    border-color: #99AAB5;
+}
+
+.card-footer {
+    border-color: #99AAB5;
+}
+
+input[type="text"] {
+    background-color: #2C2F33 !important;
+    color: #FFFFFF !important;
+    border-color: #99AAB5;
+}
